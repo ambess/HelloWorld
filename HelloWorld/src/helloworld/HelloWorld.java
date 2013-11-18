@@ -14,7 +14,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ceci est un test d'application avec contrôle de vesion");
+        System.out.println("Ceci est un test d'application avec contrôle de vemmmmmmmmsion");
         // TODO code application logic here
     }
 }
